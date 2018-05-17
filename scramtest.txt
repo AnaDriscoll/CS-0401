@@ -1,0 +1,45 @@
+Testing normal use...
+
+Real word is : swamp
+Scrambled word is: asmwp
+Real word is : rodents
+Scrambled word is: nrestod
+Real word is : insanity
+Scrambled word is: asiintyn
+Real word is : lightning
+Scrambled word is: ghniinglt
+Real word is : princess
+Scrambled word is: pncreiss
+Real word is : dread
+Scrambled word is: redad
+Real word is : pirate
+Scrambled word is: rpaeti
+Real word is : sportsmanlike
+Scrambled word is: oestrkimlsnpa
+Real word is : mutton
+Scrambled word is: tomntu
+Real word is : despair
+Scrambled word is: aedpris
+Real word is : inconceivable
+Scrambled word is: onliievcbacen
+Real word is : blunders
+Scrambled word is: redlusnb
+Real word is : grandpa
+Scrambled word is: darapng
+
+Testing special cases...
+
+Initial call to getScrambledWord(): 
+No scrambled word yet
+
+Two calls to getRealWord(): 
+Word 1: swamp
+Word 2: swamp
+
+Two calls to getScrambledWord(): 
+Scram word 1: pwmsa
+Scram word 2: pwmsa
+
+Now a call to each: 
+Word: rodents
+Scram word: rsdntoe

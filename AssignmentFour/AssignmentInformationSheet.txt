@@ -1,0 +1,67 @@
+CS 0401 Assignment Information Sheet
+ 
+You must submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name: Ana Driscoll Assignment #: 4
+
+Lab Day and Time: Wednesday 11:00-12:50
+
+Lab Instructor: Christopher Corsi
+
+Program Due Date: 12/1/17
+
+Handed in Date: 12/1/17
+
+Source code file name(s):
+
+Assig4.java
+Ballot.java
+BallotPanel.java
+LoginInterface.java
+LoginPanel.java
+TestBallotPanel.java
+TestLoginPanel.java
+TestVoter.java
+VoteInterface.java
+Voter.java
+
+Compiled (.class) file name(s) : 
+
+Assig4$1.class
+Assig4$IntroListener.class
+Assig4.class
+Ballot$1.class
+Ballot$VoteListener.class
+Ballot.class
+BallotPanel$1.class
+BallotPanel$VoteListener.class
+BallotPanel.class
+LoginInterface.class
+LoginPanel$1.class
+LoginPanel$IDListener.class
+LoginPanel.class
+TestBallotPanel$1.class
+TestBallotPanel$StartListenType.class
+TestBallotPanel.class
+TestLoginPanel$1.class
+TestLoginPanel$LoginListener.class
+TestLoginPanel.class
+TestVoter.class
+VoteInterface.class
+Voter.class 
+
+Other file name(s) (if relevant): 
+
+voters.txt
+ballots.txt
+ballots2.txt
+
+Does your program compile without error?: Yes 
+
+If not, what is/are the error(s)?: N/A
+
+Does your program run without error?: Yes 
+
+If not, what is/are the error(s) and which parts of your program run correctly?: N/A 
+
+Additional comments (including problems and extra credit): N/A 
